@@ -1,0 +1,6 @@
+{
+  "name": "BD Earning Team Pro",
+  "description": "Task, video, ad, game, and referral earning app with Admin control panel and Worker portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BD Earning Team Pro</string>
+    <string name="app_tagline">সহজ কাজ, নিরাপদ আয় — অ্যাডমিন ও ওয়ার্কার পোর্টাল</string>
+    <string name="portal_admin_link">bdearning://admin</string>
+    <string name="portal_worker_link">bdearning://worker</string>
+    <string name="portal_admin_title">অ্যাডমিন প্যানেল (Admin Panel)</string>
+    <string name="portal_worker_title">ওয়ার্কার অ্যাপ (Worker App)</string>
+    <string name="local_db_notice">লোকাল ডেটাবেজ মোড চালু আছে। একাধিক ডিভাইসে রিয়েল-টাইম অনলাইন সিঙ্কের জন্য Firebase সংযোগ প্রয়োজন।</string>
+</resources>
